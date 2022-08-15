@@ -11,4 +11,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francisco-hub-eng&show_icons=true&locale=en&layout=compact" alt="francisco-hub-eng" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francisco-hub-eng&show_icons=true&locale=en" alt="francisco-hub-eng" /></p>
